@@ -20,7 +20,7 @@ You need to add this line to ProjectConfiguration.class.php:
 
 Then a Symfony cache clear:
 
-  $ php symfony cc
+    $ php symfony cc
 
 ## Usage
 
@@ -34,12 +34,11 @@ Then a Symfony cache clear:
 
 ## Example
 
-	HTML
+	HTML:
 		
 		<input id="datetimepicker" type="text" >
 
-
-	JavaScript
+	JavaScript:
 
 		jQuery('#datetimepicker').datetimepicker();
 
