@@ -20,15 +20,15 @@ You need to add this line to ProjectConfiguration.class.php:
 
 Then a Symfony cache clear:
 
-		$ php symfony cc
+  $ php symfony cc
 
 ## Usage
 
   view.yml
 
     default:
-			stylesheets:
-				- /sfJqueryDateTimePlugin/js/jquery.datetimepicker.css
+      stylesheets:
+        - /sfJqueryDateTimePlugin/js/jquery.datetimepicker.css
       javascripts:
         - /sfJqueryDateTimePlugin/js/jquery.datetimepicker.js
 
@@ -37,6 +37,7 @@ Then a Symfony cache clear:
 	HTML
 		
 		<input id="datetimepicker" type="text" >
+
 
 	JavaScript
 
