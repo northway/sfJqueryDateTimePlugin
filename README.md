@@ -18,6 +18,10 @@ You need to add this line to ProjectConfiguration.class.php:
 
     $this->enablePlugins('sfJqueryDateTimePlugin');
 
+Publish assets:
+
+    php symfony plugin:publish-assets
+
 Then a Symfony cache clear:
 
     $ php symfony cc
