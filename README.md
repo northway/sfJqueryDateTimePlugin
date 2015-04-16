@@ -20,7 +20,7 @@ You need to add this line to ProjectConfiguration.class.php:
 
 Publish assets:
 
-    php symfony plugin:publish-assets
+    $ php symfony plugin:publish-assets
 
 Then a Symfony cache clear:
 
