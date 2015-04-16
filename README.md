@@ -42,9 +42,7 @@ Then a Symfony cache clear:
 
 		jQuery('#datetimepicker').datetimepicker();
 
-	For more exmaples
-		
-		http://xdsoft.net/jqplugins/datetimepicker/
+For more exmaples: (http://xdsoft.net/jqplugins/datetimepicker/)
 
 If you run into some error, check symfony logs and script logs.
 
