@@ -28,7 +28,7 @@ Then a Symfony cache clear:
 
     default:
       stylesheets:
-        - /sfJqueryDateTimePlugin/js/jquery.datetimepicker.css
+        - /sfJqueryDateTimePlugin/css/jquery.datetimepicker.css
       javascripts:
         - /sfJqueryDateTimePlugin/js/jquery.datetimepicker.js
 
